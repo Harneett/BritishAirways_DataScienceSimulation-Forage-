@@ -58,14 +58,11 @@ Key insights include:
 
 ## Repository Structure
 
-'''
-british-airways-booking-prediction/
-|
-├── customer_buying_behaviour.ipynb
-├── Customer_booking_prediction.pptx
-├── requirements.txt
-└── README.md
-'''
+british-airways-booking-prediction
+- customer_buying_behaviour.ipynb
+- customer_booking_prediction.pptx
+- requirements.txt
+- README.md
 
 ---
 
