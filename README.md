@@ -57,6 +57,7 @@ Key insights include:
 ---
 
 ## Repository Structure
+
 '''
 british-airways-booking-prediction/
 |
@@ -65,6 +66,7 @@ british-airways-booking-prediction/
 ├── requirements.txt
 └── README.md
 '''
+
 ---
 
 ## Key Skills Demonstrated
